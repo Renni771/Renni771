@@ -1,6 +1,6 @@
 ### Hi, I'm Rendani 👋
 
-I'm originally from South Africa 🇿🇦  and am currently living and studying in Germany. I study BSc Computer Science at the university of  [@University of Freiburg](http://www.informatik.uni-freiburg.de/) and work as a Software Developer [@Mäuschen](https://www.xn--muschen-5wa.app/)
+I'm originally from South Africa 🇿🇦   and am currently living and studying in Germany. I study BSc Computer Science  [@University of Freiburg](http://www.informatik.uni-freiburg.de/) and work as a Software Developer [@Mäuschen](https://www.xn--muschen-5wa.app/)
 
 - 🔭 I’m currently working on a few personal personal projects 😉
 - 📚 I'm currently learning Flutter, NodeJs (Javascript/Typescript) and CI/CD

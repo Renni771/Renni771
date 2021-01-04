@@ -2,18 +2,11 @@
 
 I'm originally from South Africa 🇿🇦  and am currently living and studying in Germany. I study BSc Computer Science at the university of  [@University of Freiburg](http://www.informatik.uni-freiburg.de/) and work as a Software Developer [@Mäuschen](https://www.xn--muschen-5wa.app/)
 
-- 🔭 I’m currently working on:
-    - [Mäuschen App](https://www.xn--muschen-5wa.app/)
-    - A few top secret (not for long) personal personal projects 😉
-- 🤓 I'm currently learning:
-    - Flutter Framework
-    - NodeJs (Javascript/Typescript)
-    - CI/CD
+- 🔭 I’m currently working on [Mäuschen App](https://www.xn--muschen-5wa.app/) and a few  personal personal projects 😉
+- 🤓 I'm currently learning Flutter, NodeJs (Javascript/Typescript) and CI/CD
 - 👷 My work is [here](https://github.com/Renni771?tab=repositories).
 - 👯 I’m looking to collaborate on anything I find interesing.
-- 🤔 I’m interested in learning:
-    - UI/UX Design
-    - Front End Javascript Frameworks
+- 🤔 I’m interested in learning, UI/UX Design and Front End Javascript Frameworks
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did I mention I like guitars?
 

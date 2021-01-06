@@ -13,7 +13,7 @@ I'm originally from South Africa 🇿🇦   and am currently living and studying
 <a href="https://github.com/Renni771/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Renni771&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/Renni771/convoychat">
+<a href="https://github.com/Renni771/github-read-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renni771&repo=convoycha" />
 </a>
 

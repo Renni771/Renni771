@@ -9,6 +9,9 @@ I'm originally from South Africa 🇿🇦   and am currently living and studying
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did I mention I like guitars?
 
+![Rendani's github stats](https://github-readme-stats.vercel.app/api?username=Renni771&show_icons=true&count_private=true)
+
+
 <!--
 **Renni771/Renni771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
